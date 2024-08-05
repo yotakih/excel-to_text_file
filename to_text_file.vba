@@ -1,5 +1,4 @@
-Sub ExportExcelToText(flderPath As String)
-    Dim folderPath As String
+Sub ExportExcelToText(folderPath As String)
     Dim fileName As String
     Dim wb As Workbook
     Dim ws As Worksheet
